@@ -1,0 +1,98 @@
+
+.navbar2{
+    display: flex;
+    justify-content: flex-end;
+}
+
+  
+  
+
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    border: 1px solid #e7e7e7;
+    background-color: #f3f3f3;
+  }
+  
+  li {
+    float: left;
+  }
+
+  
+  li h1 {
+    
+    color: #666;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li h1:hover:not(.active) {
+    background-color: #ddd;
+  }
+  
+  li h1.active {
+    color: white;
+    background-color: #4CAF50;
+  }
+.page1 {
+display: flex;
+justify-content: space-between;
+margin:3px;
+}
+section {
+    text-align: center;
+    
+}
+
+.partie2{
+    display: flex;
+    justify-content: space-around;
+}
+.blockk{
+width:20% ;
+height: 400px;
+}
+.logo-docplanner{
+    width: 268px;
+    height: 33px;
+}
+
+
+.partie3 {
+    text-align: center;
+}
+.partie3 h1{
+    color:rgb(45, 143, 94)
+}
+
+.partie4 {
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+
+
+.cadre2 > img{
+    height: 500px;
+    width: auto;
+}
+button {
+	border-radius:12px 0 12px 0;
+	background: #478bf9;
+	border:none;
+	color:#fff;
+	font:bold 12px Verdana;
+	padding:6px 0 6px 0;
+}
+
+
+
+
+
+
+
+
+
